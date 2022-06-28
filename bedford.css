@@ -1,0 +1,134 @@
+.top_right_ul{
+    color: white;
+    margin:0;
+    padding: 0;
+    display:flex;
+    justify-content: flex-end;
+    margin-top: 30px;
+}
+.top_right_li{
+    margin: 10px;
+    display:inline;
+}
+
+.top_left_li{
+    color: white;
+    list-style-type: none;
+    font-size: 40px;
+    padding: 0px 20px 0px 20px;
+
+}
+.top_left_li2{
+    color: white;
+    list-style-type: none;
+    font-size: 20px;
+    padding: 0px 20px 0px 25px;
+
+}
+.first_img{
+    
+    background:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(https://images.squarespace-cdn.com/content/v1/52a74d9ae4b0253945d2aee9/1391287286405-92Z4A4R3T2ZSZAKNVS9V/image-asset.jpeg?format=2500w);
+    background-size:100% 100%; 
+    
+}
+.top_center{
+    color: white;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+.top_right_button{
+    cursor: pointer;
+    color: white;
+    background-color: Transparent;
+    border-radius: 15px;
+    border: 5px solid white;
+    margin-right: 30px;
+
+    
+
+}
+.center_button{
+    background-color: rgb(18, 150, 162); 
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    margin-bottom: 300px;
+    cursor: pointer;
+    border-radius: 30px;
+    
+
+}
+.mid_section1{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px 20px 100px 20px;
+    text-align: center;
+
+}
+.mid_section2{
+    display:flex;
+    justify-content: center;
+   /* border: 2px solid black;*/
+    padding:20px; 
+   
+}
+.mid_section2_2{
+  /*  border: 5px solid red;*/
+    display:flex;
+    width:auto;
+    padding-left: ;
+}
+.mid_section2_3{
+    display: flex;
+  /*  border: 2px solid blue;*/
+    flex-direction: column;
+    text-align: center;
+    justify-content: space-around;
+    padding: 0px 30px 0px 30px;
+
+}
+.section_button{
+    background-color: rgb(18, 150, 162); 
+    border: none;
+    color: white;
+    padding: 20px ;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 30px;
+    margin-right: 20%;
+    margin-left: 20%;
+   
+    
+
+}
+.footer{
+    margin-top: 90px;
+    margin-bottom: 90px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.signup_button{
+    background-color: black;
+    color: white;
+}
+.solid_black{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: black;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
